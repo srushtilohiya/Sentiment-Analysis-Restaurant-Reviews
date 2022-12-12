@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Restaurant-Reviews
+# Sentiment Analysis Restaurant Reviews
 The purpose of this analysis is to build a prediction model to predict whether a review on the restaurant is positive or negative. To do so, we will work on Restaurant Review dataset, we will load it into predicitve algorithms Multinomial Naive Bayes, Bernoulli Naive Bayes and Logistic Regression.
 
 Dataset: Restaurant_Reviews.tsv is a dataset from Kaggle datasets which consists of 1000 reviews on a restaurant.
